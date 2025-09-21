@@ -1,3 +1,6 @@
+// Ramji Purwar
+// 24110287
+
 #include <stdio.h>
 #include <stdbool.h>
 
